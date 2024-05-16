@@ -22,3 +22,7 @@ def index():
 
 if __name__ == '__main__':
     app.run(debug=True)
+<<<<<<< HEAD
+=======
+    app.run(host='100.25.111.95', port=5000)
+>>>>>>> c134425b6a674669263b17e1ce431ddd928dfca9
